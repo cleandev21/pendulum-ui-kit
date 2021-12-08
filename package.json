@@ -9,7 +9,7 @@
   "module": "dist/pendulum-ui-kit.esm.js",
   "repository": {
     "type": "git",
-    "url": "git@githab.com:cleandev21/pendulum-ui-kit.git"
+    "url": "git@github.com:cleandev21/pendulum-ui-kit.git"
   },
   "files": [
     "dist"
